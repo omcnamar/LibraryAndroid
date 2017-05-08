@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_b8f385fa7f61ffa74dc9132f884d97f2234b62b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_add1488d55bed7a5aa7f6d3920779f238e836be5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e9229e6e3faae0a2d6b0afbcb53d676a32c3fcf6">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8c8dc8a53b7bf6f1f5001e47f469afdbe92f7518\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_c8ffd7ff7586302f0073ed16b955802e52b1c545\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_30395af25e9328ac4de1b24b7c957074da8f904c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_54579a1f9f83b3b7673f49d234010584b8a181e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_471c5ac562b54a72b5a57ebd826293d03fd33e83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1ffa45b854b1e2c93a919f8a995971db61e813e1">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4c4fb2207c7af6ca3158fc60192a07514a1923ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_3b9cd627cf2ae5df6a4bd71cfc1a818b8282b69a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_182ee4564c01c4856d7a13008a66d2559bb39d38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_10c3c4ece949a4e2b3a6d1fd92263ac40cb0c6f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_a9526e30daf3db10085101505252285829fe5990\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_c433c33190c15c6a0a0d1f0051898a82f69214d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_7d865ad3b68ec98ad3a5c081eb157082dfe5ac72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_5be4c5491eded44ba222b333aad74291109fe6c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_2799d51a7b03a322dba5496e6ddbcb2992d2db97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_3654294b3a4e448aadcfad875f3f17ad9425380a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\omcna\AndroidStudioProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_fa92ab48a8983c076106abc6379b49269ad7ddaa\classes.dex" />
+    </item>
+
+</items>
